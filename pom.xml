@@ -21,7 +21,7 @@
         <logback.version>1.6.3</logback.version>
         <lombok.version>1.18.46</lombok.version>
         <snakeyaml.version>3.1.1</snakeyaml.version>
-        <jackson.version>2.22.0</jackson.version>
+        <jackson.version>2.22.2</jackson.version>
         <cronutils.version>9.2.1</cronutils.version>
     </properties>
 
